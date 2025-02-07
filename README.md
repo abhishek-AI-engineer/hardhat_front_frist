@@ -14,3 +14,4 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 # hardhat_frted_frist
+# hardhat_front_frist
